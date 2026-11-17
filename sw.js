@@ -9,7 +9,7 @@
    Ubah VERSI setiap kali kamu menambah/mengganti file di DAFTAR_FILE
    supaya cache lama dibersihkan.
    ============================================================ */
-const VERSI = "keuangan-v3";
+const VERSI = "keuangan-v4";
 
 const DAFTAR_FILE = [
   "./",
